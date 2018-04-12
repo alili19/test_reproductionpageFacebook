@@ -1,0 +1,35 @@
+/*Page Connexion*/
+
+#pageConnexion{
+	padding-bottom: 3%;
+	padding-top: 1%;
+	background-color:rgb(59, 89, 152);
+}
+
+#login,#mdp,#btnConnexion{
+	float: left;
+	margin-left: :1%;
+	margin-right:1%;
+	margin-bottom: : 3%;
+}
+
+#mdpOublie{
+margin-left:15%}
+
+/*Page Inscription*/
+#pageInscription{
+	padding-bottom: 6%;
+	padding-top: 1%;
+	background-color:rgb(251, 252, 253);
+}
+
+.form-group{
+	margin: 1%;
+}
+
+@media all and (min-width: 1024px) and (max-width: 1280px){
+	#imgFacebook{
+		background-image: src("img/facebook.png");
+	}
+}
+
